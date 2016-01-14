@@ -4,4 +4,4 @@ apt-get install build-essential libssl-dev libncurses5-dev libsqlite3-dev linux-
 cd /usr/src
 wget http://downloads.asterisk.org/pub/telephony/dahdi-linux-complete/dahdi-linux-complete-2.10.2+2.10.2.tar.gz
 wget http://downloads.asterisk.org/pub/telephony/libpri/libpri-1.4-current.tar.gz
-wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-11-current.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-13-current.tar.gz
