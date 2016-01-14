@@ -1,0 +1,6 @@
+#! /bin/sh
+
+apt-get install build-essential libssl-dev libncurses5-dev libsqlite3-dev linux-headers-$(uname -r) gcc make uuid uuid-dev bison openssl libssl-dev libeditline0 libeditline-dev libedit2 libncurses5 libncurses5-dev zlib1g-dev libnewt-dev libsqlite3-0 libjansson-dev libxml2-dev perl libwww-perl sox mpg123 
+wget http://downloads.asterisk.org/pub/telephony/dahdi-linux-complete/dahdi-linux-complete-2.10.2+2.10.2.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/libpri/libpri-1.4-current.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-11-current.tar.gz
